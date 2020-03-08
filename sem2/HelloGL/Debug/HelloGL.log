@@ -1,0 +1,6 @@
+﻿  GLUTCallbacks.cpp
+  HelloGl.cpp
+  main.cpp
+  Generating Code...
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\HelloGL\HelloGl.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HelloGL.vcxproj -> C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\Debug\HelloGL.exe
