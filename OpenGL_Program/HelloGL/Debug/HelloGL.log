@@ -1,0 +1,10 @@
+﻿  Cube.cpp
+  OBJCarHurican.cpp
+  OBJMeshLoader.cpp
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\HelloGL\OBJMeshLoader.cpp(74,24): warning C4018: '<': signed/unsigned mismatch
+  ObjSceneObject.cpp
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\HelloGL\OBJMeshLoader.cpp(168,21): warning C4018: '<': signed/unsigned mismatch
+  Screens.cpp
+  Generating Code...
+C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\HelloGL\ObjSceneObject.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HelloGL.vcxproj -> C:\Users\rug11\OneDrive - Staffordshire University\First year\Foggs\Sem2\sem2\Debug\HelloGL.exe
